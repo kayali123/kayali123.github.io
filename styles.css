@@ -266,6 +266,8 @@ html.lang-zh .proj h4{font-style:normal;}
 .tag{font-family:var(--body);font-weight:600;font-size:.68rem;background:var(--bg);color:var(--rose-deep);border:1px solid var(--line);padding:3px 9px;border-radius:20px;}
 .proj .plink{margin-top:14px;font-family:var(--disp);letter-spacing:.1em;font-size:.72rem;text-transform:uppercase;color:var(--rose);}
 .proj .plink.soft{color:var(--muted);}
+.proj .plinks{display:flex;flex-wrap:wrap;gap:7px 16px;margin-top:14px;}
+.proj .plinks .plink{margin-top:0;}
 .coming{border-style:dashed;opacity:.9;text-align:center;padding:40px 24px;}
 .coming .ic{margin:0 auto 14px;}
 
