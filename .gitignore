@@ -1,0 +1,6 @@
+.DS_Store
+
+# Client-only coaching tools are deployed separately behind Cloudflare Access.
+coaching/integrity/
+coaching/tool-previews/
+coaching/tools/
